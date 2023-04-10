@@ -8,4 +8,4 @@ features, as well as Principant Component Analysis on the tokenized content of t
 The second notebook implements supervised classification by performing transfer learning on the VGG architecture, using the
 labels learned through clustering.
 
-These notebooks make use of _Scikit-learn_ and _keras_ libraries. 
+The notebooks make use of _Scikit-learn_ and _keras_ libraries. 
